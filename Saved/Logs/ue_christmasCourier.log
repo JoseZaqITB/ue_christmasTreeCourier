@@ -3358,3 +3358,6 @@ LogInit: Object subsystem initialized
 [2023.11.26-21.42.54:383][ 65]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2023.11.26-21.42.54:383][ 65]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2023.11.26-21.42.54:383][ 65]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.11.26-21.42.54:942][ 65]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.11.26-21.42.55:002][ 65]LogExit: Exiting.
+[2023.11.26-21.42.55:050][ 65]Log file closed, 11/26/23 22:42:55
