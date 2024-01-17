@@ -12,13 +12,6 @@
 			]
 		},
 		{
-			"Name": "HPMotionController",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
